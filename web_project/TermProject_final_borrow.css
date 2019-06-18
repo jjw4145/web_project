@@ -1,0 +1,10 @@
+.borrowList{
+  border: 1px solid black;
+}
+
+div-modalbox{
+
+}
+
+/* 모달박스의 배경색은 연한 초록색으로 부여함
+/ 모달박스의 모든 항목은 text-align에 center값을 부여
